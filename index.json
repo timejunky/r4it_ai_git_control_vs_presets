@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "source": "https://github.com/timejunky/r4it_ai_git_control_vs_presets",
+  "count": 87,
+  "files": [
+    {
+      "id": "bloom-mauve-dark",
+      "file": "bloom-mauve-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "blossom-lavender",
+      "file": "blossom-lavender.json",
+      "category": "standard"
+    },
+    {
+      "id": "blossom-mint-light",
+      "file": "blossom-mint-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "burgundy-gold-paper",
+      "file": "burgundy-gold-paper.json",
+      "category": "standard"
+    },
+    {
+      "id": "classic-blue",
+      "file": "classic-blue.json",
+      "category": "standard"
+    },
+    {
+      "id": "coffee-americano-dark",
+      "file": "coffee-americano-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "coffee-espresso-dark",
+      "file": "coffee-espresso-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "coffee-latte-light",
+      "file": "coffee-latte-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "cyan-lagoon",
+      "file": "cyan-lagoon.json",
+      "category": "standard"
+    },
+    {
+      "id": "cyber-green",
+      "file": "cyber-green.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-black-gold-minimal",
+      "file": "dark-black-gold-minimal.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-blue-ice",
+      "file": "dark-blue-ice.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-burgundy-gold",
+      "file": "dark-burgundy-gold.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-cyan-lagoon",
+      "file": "dark-cyan-lagoon.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-floral-garden",
+      "file": "dark-floral-garden.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-gilded-onyx",
+      "file": "dark-gilded-onyx.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-gold-sand",
+      "file": "dark-gold-sand.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-green-forest",
+      "file": "dark-green-forest.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-honey-bronze",
+      "file": "dark-honey-bronze.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-metal-silver",
+      "file": "dark-metal-silver.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-noir-gold-red",
+      "file": "dark-noir-gold-red.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-orange-burnt",
+      "file": "dark-orange-burnt.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-orange-copper",
+      "file": "dark-orange-copper.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-purple-royal",
+      "file": "dark-purple-royal.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-red-deep",
+      "file": "dark-red-deep.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-rose-gold",
+      "file": "dark-rose-gold.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-teal-deep",
+      "file": "dark-teal-deep.json",
+      "category": "dark"
+    },
+    {
+      "id": "dark-yellow-amber",
+      "file": "dark-yellow-amber.json",
+      "category": "dark"
+    },
+    {
+      "id": "deep-space",
+      "file": "deep-space.json",
+      "category": "dark"
+    },
+    {
+      "id": "dev-dark-contrast",
+      "file": "dev-dark-contrast.json",
+      "category": "dark"
+    },
+    {
+      "id": "dracula-inspired",
+      "file": "dracula-inspired.json",
+      "category": "dark"
+    },
+    {
+      "id": "floral-garden-ground",
+      "file": "floral-garden-ground.json",
+      "category": "standard"
+    },
+    {
+      "id": "flower-meadow-light",
+      "file": "flower-meadow-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "flower-wisteria-dusk",
+      "file": "flower-wisteria-dusk.json",
+      "category": "dark"
+    },
+    {
+      "id": "garden-peach-light",
+      "file": "garden-peach-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "garden-rose-dark",
+      "file": "garden-rose-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "github-light",
+      "file": "github-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "gold-amber-chrome",
+      "file": "gold-amber-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "gold-amber-light",
+      "file": "gold-amber-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "gold-amethyst-chrome",
+      "file": "gold-amethyst-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "gold-azure-chrome-light",
+      "file": "gold-azure-chrome-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "gold-bars-dark",
+      "file": "gold-bars-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "gold-forest-chrome",
+      "file": "gold-forest-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "gold-navy-chrome",
+      "file": "gold-navy-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "gold-sage-chrome-light",
+      "file": "gold-sage-chrome-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "ice-arctic-dark",
+      "file": "ice-arctic-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "ice-frost-light",
+      "file": "ice-frost-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "laser-red-dark",
+      "file": "laser-red-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "light-gray",
+      "file": "light-gray.json",
+      "category": "standard"
+    },
+    {
+      "id": "lime-circuit",
+      "file": "lime-circuit.json",
+      "category": "standard"
+    },
+    {
+      "id": "metallic-gold-paper",
+      "file": "metallic-gold-paper.json",
+      "category": "standard"
+    },
+    {
+      "id": "metallic-silver-paper",
+      "file": "metallic-silver-paper.json",
+      "category": "standard"
+    },
+    {
+      "id": "midnight-cyan-chrome",
+      "file": "midnight-cyan-chrome.json",
+      "category": "standard"
+    },
+    {
+      "id": "midnight-lime-chrome",
+      "file": "midnight-lime-chrome.json",
+      "category": "standard"
+    },
+    {
+      "id": "midnight-sun-chrome",
+      "file": "midnight-sun-chrome.json",
+      "category": "standard"
+    },
+    {
+      "id": "monokai-classic",
+      "file": "monokai-classic.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-amber-body",
+      "file": "neon-amber-body.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-blue-chrome",
+      "file": "neon-blue-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-cyan-electric",
+      "file": "neon-cyan-electric.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-cyan-night",
+      "file": "neon-cyan-night.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-lime-chrome",
+      "file": "neon-lime-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-magenta-bars",
+      "file": "neon-magenta-bars.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-orange-burn",
+      "file": "neon-orange-burn.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-purple-void",
+      "file": "neon-purple-void.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-red-full",
+      "file": "neon-red-full.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-teal-body",
+      "file": "neon-teal-body.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-violet-full",
+      "file": "neon-violet-full.json",
+      "category": "dark"
+    },
+    {
+      "id": "neon-yellow-bars",
+      "file": "neon-yellow-bars.json",
+      "category": "dark"
+    },
+    {
+      "id": "ocean-blue",
+      "file": "ocean-blue.json",
+      "category": "dark"
+    },
+    {
+      "id": "ocean-deep-dark",
+      "file": "ocean-deep-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "ocean-midnight-dark",
+      "file": "ocean-midnight-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "ocean-reef-dark",
+      "file": "ocean-reef-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "pastel-lavender",
+      "file": "pastel-lavender.json",
+      "category": "standard"
+    },
+    {
+      "id": "pastel-mint",
+      "file": "pastel-mint.json",
+      "category": "standard"
+    },
+    {
+      "id": "pastel-peach",
+      "file": "pastel-peach.json",
+      "category": "standard"
+    },
+    {
+      "id": "pastel-sky",
+      "file": "pastel-sky.json",
+      "category": "standard"
+    },
+    {
+      "id": "phosphor-green-dark",
+      "file": "phosphor-green-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "rose-gold-chrome",
+      "file": "rose-gold-chrome.json",
+      "category": "dark"
+    },
+    {
+      "id": "rose-gold-paper",
+      "file": "rose-gold-paper.json",
+      "category": "standard"
+    },
+    {
+      "id": "rose-punch",
+      "file": "rose-punch.json",
+      "category": "standard"
+    },
+    {
+      "id": "sunflower-ink",
+      "file": "sunflower-ink.json",
+      "category": "standard"
+    },
+    {
+      "id": "sunset-coral-light",
+      "file": "sunset-coral-light.json",
+      "category": "standard"
+    },
+    {
+      "id": "sunset-dusk-dark",
+      "file": "sunset-dusk-dark.json",
+      "category": "dark"
+    },
+    {
+      "id": "sunset-orange",
+      "file": "sunset-orange.json",
+      "category": "standard"
+    },
+    {
+      "id": "synthwave-light-pop",
+      "file": "synthwave-light-pop.json",
+      "category": "standard"
+    },
+    {
+      "id": "warm-ivory",
+      "file": "warm-ivory.json",
+      "category": "standard"
+    },
+    {
+      "id": "writer-light-solarized",
+      "file": "writer-light-solarized.json",
+      "category": "standard"
+    }
+  ]
+}
