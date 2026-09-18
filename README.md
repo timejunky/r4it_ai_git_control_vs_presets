@@ -28,25 +28,28 @@ Contrast SSOT lives in the extension. Re-load after an AKC update picks up new p
 
 ```json
 {
-  "id": "flower-meadow-light",
-  "name": "Flower Meadow",
-  "title": "Flower Meadow",
+  "id": "classic-blue",
+  "name": "Classic Blue",
+  "title": "Classic Blue",
   "type": "light",
   "description": "…",
   "category": "standard",
   "sourceKind": "akc-catalog",
-  "sourceOrigin": "https://github.com/timejunky/r4it_ai_git_control_vs_presets/blob/main/presets/flower-meadow-light.json",
+  "sourceOrigin": "https://github.com/timejunky/r4it_ai_git_control_vs_presets/blob/main/presets/classic-blue.json",
   "colors": {
-    "editor.background": "#f4faf4",
-    "editorWidget.background": "#eaf4ea",
-    "editorWidget.foreground": "#1a2a1a"
+    "editor.background": "#f4f6f8",
+    "activityBar.background": "#004080",
+    "editorWidget.background": "#f4f6f8",
+    "editorWidget.foreground": "#0b1b2b"
   }
 }
 ```
 
 Local AKC array export (`[{ id, title, colors }]`) is a different document (Import in the UI). No zip.
 
-Regenerate after palette edits (and `npx tsc -p .` in `vsextension` if part3–part5 changed):
+Light catalog is curated: one family per hue, no pale-paper twins. Dark keeps the broader moon/neon/gold set.
+
+Regenerate after palette edits (and `npx tsc -p .` in `vsextension` if part1–part5 changed):
 
 ```text
 node tools/export_from_akc.cjs

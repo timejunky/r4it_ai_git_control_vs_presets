@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/timejunky/r4it_ai_git_control_vs_presets",
-  "count": 87,
+  "count": 74,
   "files": [
     {
       "id": "bloom-mauve-dark",
@@ -19,9 +19,9 @@
       "category": "standard"
     },
     {
-      "id": "burgundy-gold-paper",
-      "file": "burgundy-gold-paper.json",
-      "category": "standard"
+      "id": "charcoal-quiet",
+      "file": "charcoal-quiet.json",
+      "category": "dark"
     },
     {
       "id": "classic-blue",
@@ -159,16 +159,6 @@
       "category": "dark"
     },
     {
-      "id": "floral-garden-ground",
-      "file": "floral-garden-ground.json",
-      "category": "standard"
-    },
-    {
-      "id": "flower-meadow-light",
-      "file": "flower-meadow-light.json",
-      "category": "standard"
-    },
-    {
       "id": "flower-wisteria-dusk",
       "file": "flower-wisteria-dusk.json",
       "category": "dark"
@@ -204,11 +194,6 @@
       "category": "dark"
     },
     {
-      "id": "gold-azure-chrome-light",
-      "file": "gold-azure-chrome-light.json",
-      "category": "standard"
-    },
-    {
       "id": "gold-bars-dark",
       "file": "gold-bars-dark.json",
       "category": "dark"
@@ -224,9 +209,9 @@
       "category": "dark"
     },
     {
-      "id": "gold-sage-chrome-light",
-      "file": "gold-sage-chrome-light.json",
-      "category": "standard"
+      "id": "graphite-night",
+      "file": "graphite-night.json",
+      "category": "dark"
     },
     {
       "id": "ice-arctic-dark",
@@ -239,14 +224,14 @@
       "category": "standard"
     },
     {
+      "id": "iron-paper",
+      "file": "iron-paper.json",
+      "category": "standard"
+    },
+    {
       "id": "laser-red-dark",
       "file": "laser-red-dark.json",
       "category": "dark"
-    },
-    {
-      "id": "light-gray",
-      "file": "light-gray.json",
-      "category": "standard"
     },
     {
       "id": "lime-circuit",
@@ -254,28 +239,8 @@
       "category": "standard"
     },
     {
-      "id": "metallic-gold-paper",
-      "file": "metallic-gold-paper.json",
-      "category": "standard"
-    },
-    {
-      "id": "metallic-silver-paper",
-      "file": "metallic-silver-paper.json",
-      "category": "standard"
-    },
-    {
-      "id": "midnight-cyan-chrome",
-      "file": "midnight-cyan-chrome.json",
-      "category": "standard"
-    },
-    {
-      "id": "midnight-lime-chrome",
-      "file": "midnight-lime-chrome.json",
-      "category": "standard"
-    },
-    {
-      "id": "midnight-sun-chrome",
-      "file": "midnight-sun-chrome.json",
+      "id": "mist-rail",
+      "file": "mist-rail.json",
       "category": "standard"
     },
     {
@@ -364,23 +329,8 @@
       "category": "dark"
     },
     {
-      "id": "pastel-lavender",
-      "file": "pastel-lavender.json",
-      "category": "standard"
-    },
-    {
-      "id": "pastel-mint",
-      "file": "pastel-mint.json",
-      "category": "standard"
-    },
-    {
-      "id": "pastel-peach",
-      "file": "pastel-peach.json",
-      "category": "standard"
-    },
-    {
-      "id": "pastel-sky",
-      "file": "pastel-sky.json",
+      "id": "pebble-rail",
+      "file": "pebble-rail.json",
       "category": "standard"
     },
     {
@@ -394,19 +344,14 @@
       "category": "dark"
     },
     {
-      "id": "rose-gold-paper",
-      "file": "rose-gold-paper.json",
-      "category": "standard"
-    },
-    {
       "id": "rose-punch",
       "file": "rose-punch.json",
       "category": "standard"
     },
     {
-      "id": "sunflower-ink",
-      "file": "sunflower-ink.json",
-      "category": "standard"
+      "id": "slate-desk",
+      "file": "slate-desk.json",
+      "category": "dark"
     },
     {
       "id": "sunset-coral-light",
@@ -419,11 +364,6 @@
       "category": "dark"
     },
     {
-      "id": "sunset-orange",
-      "file": "sunset-orange.json",
-      "category": "standard"
-    },
-    {
       "id": "synthwave-light-pop",
       "file": "synthwave-light-pop.json",
       "category": "standard"
@@ -431,11 +371,6 @@
     {
       "id": "warm-ivory",
       "file": "warm-ivory.json",
-      "category": "standard"
-    },
-    {
-      "id": "writer-light-solarized",
-      "file": "writer-light-solarized.json",
       "category": "standard"
     }
   ]
